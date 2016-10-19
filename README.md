@@ -1,8 +1,8 @@
-### Collection of motivational/classic/technical/managerial/entrepreneurial talks.
+### Collection of classic motivational/technical/managerial/entrepreneurial/etc talks.
 
-To learn about large-scale systems, please visit [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
+####To learn about large-scale systems, please visit [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
 
-To learn about Java and related frameworks, please visit [all-things-java](https://github.com/Developer-Y/all-things-java)
+####To learn about Java and related frameworks, please visit [all-things-java](https://github.com/Developer-Y/all-things-java)
 
 * [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 * [Hamming, "Creativity" (May 23, 1995)](https://www.youtube.com/watch?v=FlTybZvds0U)
