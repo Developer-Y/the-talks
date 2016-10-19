@@ -1,5 +1,9 @@
 ### Collection of motivational/classic/technical/managerial/entrepreneurial talks.
 
+To learn about large-scale systems, please visit [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
+
+To learn about Java and related frameworks, please visit [all-things-java](https://github.com/Developer-Y/all-things-java)
+
 * [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 * [Hamming, "Creativity" (May 23, 1995)](https://www.youtube.com/watch?v=FlTybZvds0U)
 * [Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
