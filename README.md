@@ -1,8 +1,8 @@
 ### Collection of classic motivational/technical/managerial/entrepreneurial/etc talks.
 
-####To learn about large-scale systems, please visit [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
+To learn about large-scale systems, please visit [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
 
-####To learn about Java and related frameworks, please visit [all-things-java](https://github.com/Developer-Y/all-things-java)
+To learn about Java and related frameworks, please visit [all-things-java](https://github.com/Developer-Y/all-things-java)
 
 * [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 * [Hamming, "Creativity" (May 23, 1995)](https://www.youtube.com/watch?v=FlTybZvds0U)
@@ -41,4 +41,18 @@
 * [5 Biggest Legal Mistakes That Startups Make](https://www.youtube.com/watch?v=-F_vbfiScoA)
 * [TechZulu Presents: Biggest Legal Mistakes Startups Make](https://www.youtube.com/playlist?list=PL781A6B5157F611A0)
 * [Steve Blank: How to Build a Great Company, Step by Step (8/14/12)](https://www.youtube.com/watch?v=1RTcXwJuCaU)
-* [GOTO 2012 • The Geek's Guide to Leading Teams • Patrick Kua](https://www.youtube.com/watch?v=N9UPW-2wL5U)
+* [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+* [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA)
+* [Simplicity Ain't Easy - Stuart Halloway](https://www.youtube.com/watch?v=cidchWg74Y4)
+* [Susan Cain: "Quiet" | Talks at Google](https://www.youtube.com/watch?v=AzlCIS072_Y)
+* [Martin Fowler – Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI)
+* [Mining Online Data Across Social Networks](https://www.youtube.com/watch?v=IBov98-LIbI)
+* [On Getting Creative Ideas](https://www.youtube.com/watch?v=3fSB6ut-cT0)
+* [Leslie Lamport: Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) ([Thinking for Programmers: Rising Above the Code](https://www.youtube.com/watch?v=kq2IukJmQYw))
+* [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
+* [The thrilling potential of SixthSense technology | Pranav Mistry](https://www.youtube.com/watch?v=YrtANPtnhyg)
+* [Do schools kill creativity? | Sir Ken Robinson](https://www.youtube.com/watch?v=iG9CE55wbtY)
+* [Learning from StackOverflow.com](https://www.youtube.com/watch?v=NWHfY_lvKIQ)
+* [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
+* [Donald Knuth - My advice to young people (93/97)](https://www.youtube.com/watch?v=75Ju0eM5T2c)
+* [Donald Knuth - All Questions Answered](https://www.youtube.com/watch?v=CDokMxVtB3k)
