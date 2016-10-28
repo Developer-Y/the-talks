@@ -47,6 +47,7 @@ To learn about Java and related frameworks, please visit [all-things-java](https
 * [Simplicity Ain't Easy - Stuart Halloway](https://www.youtube.com/watch?v=cidchWg74Y4)
 * [Steve Blank: How to Build a Great Company, Step by Step (8/14/12)](https://www.youtube.com/watch?v=1RTcXwJuCaU)
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+* [Surviving the Framework Hype Cycle by Brandon Hays test](https://www.youtube.com/watch?v=9zc4DSTRGeM)
 * [Susan Cain: "Quiet" | Talks at Google](https://www.youtube.com/watch?v=AzlCIS072_Y)
 * [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 * [TechZulu Presents: Biggest Legal Mistakes Startups Make](https://www.youtube.com/playlist?list=PL781A6B5157F611A0)
