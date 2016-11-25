@@ -18,6 +18,7 @@ To learn about Java and related frameworks, please visit [all-things-java](https
 * [Donald Knuth - All Questions Answered](https://www.youtube.com/watch?v=CDokMxVtB3k)
 * [Donald Knuth - My advice to young people (93/97)](https://www.youtube.com/watch?v=75Ju0eM5T2c)
 * [Elon Musk Talks About Getting the Job Done](https://www.youtube.com/watch?v=MOPgM7Sc2VQ)
+* [Gödel, Escher, Bach: A Mental Space Odyssey- MIT](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/index.htm)
 * [Google I/O 2009 - The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 * [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 * [Guy Kawasaki - The Art of The Start](https://www.youtube.com/watch?v=7mEQ0ono8mg)
